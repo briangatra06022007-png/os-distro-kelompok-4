@@ -1,0 +1,14 @@
+linux-image-generic
+systemd-sysv
+live-boot
+live-boot-initramfs-tools
+grub-pc-bin
+grub-efi-amd64-bin
+network-manager
+net-tools
+sudo
+bash
+coreutils
+iproute2
+iputils-ping
+ca-certificates
